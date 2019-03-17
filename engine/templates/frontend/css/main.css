@@ -1,0 +1,524 @@
+.form-signin{
+	max-width: 400px;
+    margin: auto;
+}
+.form-signin input.form-control{
+	    margin: 10px 0;
+}
+.centertext{
+	text-align: center;
+    margin: 10px 0;
+}
+   .houmi .feather{
+    width: 86px;
+    height: 86px;
+    }
+    .houmi a{display: inline-block;border: 1px solid;
+    padding: 16px;
+    margin: 4px;}
+    .houmi svg{display: block;
+    margin: auto;}
+    .houmi a:hover{ text-decoration: none !important;   color: #fff !important;
+    background: #557bff !important;}
+    .houmi{    text-align: center;    max-width: 500px;
+    margin: auto;
+    margin-bottom: 32px;}
+    .form-element select{flex: 1;
+    background: #0000;
+    border: none;
+    padding: 8px;
+}
+.form-element{
+        border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-justify-content: center;
+    justify-content: center;
+    display: -webkit-inline-flex;
+    display: flex;
+}
+.form-element>span{
+        padding-right: 20px;
+    padding-top: 6px;
+}
+.form-element select>option, .form-element select {
+    text-align-last: right;
+}
+.houmi p{
+        margin-top: 18px;
+    margin-bottom: 0;
+        width: 170px;
+    height: 64px;
+}
+.outrok{
+    width: 100% !important;
+    margin: 24px auto;
+    border: none;
+}
+.outrok td{
+	border: none;    padding: 0 !important;
+}
+.outrok td a{
+	padding: 8px;display: block;
+	text-decoration: none;
+    color: #343a40;
+}
+.outrok tr:hover{
+	background: #557bff;
+	}
+	.outrok tr:hover a{
+	background: #557bff;
+	color: #fff
+	}
+	#middle{
+    	min-height: calc(100vh - 56px - 99px);
+	}
+	.ttx{    margin: 26px 0px;}
+
+
+.outrok2 th {
+
+    border: 1px solid #e0e0e0;
+    color: #817584;
+    font-weight: normal;background: #cccccc21;
+}
+.outrok2 thead tr{background: #fff !important;}
+.e2x svg{    padding: 0px 2px 4px;
+    vertical-align: middle;}
+    .e2x p{    display: inline-block;
+    margin: 0;
+    padding: 4px;
+    vertical-align: middle;}.e2x{    margin-top: 22px;
+    margin-left: 6px;}
+    td.e3x{display: none !important;}
+    th.e3x{display: none;}
+
+    .floatright p{    display: inline-block;
+    margin: 22px 6px;
+    font-size: 16px;
+    border: 1px solid #557bff4a;
+    color: #557bff9c;
+    border-radius: 4px;
+    padding: 10px 10px;
+}
+nav{margin-bottom: 24px;}
+
+@media screen and (max-width: 1400px){
+		.houmi{     max-width: 1140px;     background: #343a4000; min-height: calc(100vh - 56px - 40px - 30px); display: table;}
+
+		.houmi a { margin: 20px 6px;     padding: 12px;}
+
+		.houmi .feather {  width: 60px;  height: 60px;}
+
+		.footer .container #footer-float{     background: #343a400d; }
+
+		#footer-float{text-align: center;padding: 8px;}
+
+		.houmi p {  margin-top: 18px;  margin-bottom: 0;  width: 140px;   height: 64px;}
+
+		.outro{   display: table-cell;    vertical-align: middle;}
+	}
+
+	@media screen and (max-width: 1200px){
+
+		.floatright p {  margin: 22px 6px;  font-size: 12px;    padding: 10px 6px;}
+
+		.houmi{     max-width: 930px;     background: #343a400d; min-height: calc(100vh - 56px - 40px - 30px); display: table;}
+
+		.houmi a {     margin: 20px 20px;    padding: 25px;}
+
+		.houmi .feather {  width: 60px;  height: 60px;}
+
+		.footer .container #footer-float{     background: #343a400d; }
+
+		#footer-float{text-align: center;padding: 8px;}
+
+		.houmi p {  margin-top: 18px;  margin-bottom: 0;  width: 140px;   height: 64px;}
+
+		.outro{   display: table-cell;    vertical-align: middle;}
+	}
+
+
+		@media screen and (max-width: 600px){
+		.houmi{     max-width: 930px;     background: #343a400d; min-height: calc(100vh - 56px - 40px - 30px); display: table;}
+
+		.houmi a {    margin: 20px 20px;    padding: 25px;}
+
+		.houmi .feather {  width: 50px;    height: 50px;}
+
+		.footer .container #footer-float{     background: #343a400d; }
+
+		#footer-float{text-align: center;padding: 8px;}
+
+		.houmi p {  margin-top: 18px;  margin-bottom: 0;  width: 124px;   height: 60px;}
+
+		.outro{   display: table-cell;    vertical-align: middle;}
+	}
+
+		@media screen and (max-width: 480px){
+
+        .floatright{    float: none;width: 100%;text-align: left;}
+
+        .floatright p {   font-size: 16px; }
+
+		.houmi{     max-width: 930px;     background: #343a400d; min-height: calc(100vh - 56px - 40px - 30px); display: table;}
+
+		.houmi a {     margin: 20px 20px;    padding: 44px;}
+
+		.houmi .feather {  width: 60px;  height: 60px;}
+
+		.footer .container #footer-float{     background: #343a400d; }
+
+		#footer-float{text-align: center;padding: 8px;}
+
+		.houmi p {  margin-top: 18px;  margin-bottom: 0;  width: 140px;   height: 64px;}
+
+		.outro{   display: table-cell;    vertical-align: middle;}
+	}
+
+			@media screen and (max-width: 290px){
+
+        .floatright p {   font-size: 14px;}
+
+		.houmi a {     margin: 12px 12px;    padding: 10px;}
+		.houmi .feather {    width: 40px;    height: 40px;}
+	}
+
+	.outrok2 td {
+    border: none;
+    padding: 8px !important;   
+    
+    background: #fff;
+    border: 1px solid #ccc;}
+   .outrok2 {    width: 99% !important;
+}
+.outroky td.student{
+  padding-left: 0px !important; padding-top: 0px!important;
+  padding-right: 0px !important;padding-bottom: 0px !important;
+}
+.floatright .e2x{    padding: 0;
+    margin: 0;}
+
+.floatright .e2x p{    margin: 0;
+    color: #fff}
+    .form-signin{    margin-top: 28vh;}
+
+   .form-signin p  {
+    font-size: 20px;
+    text-align: center;
+}
+.hide-table .hide{
+    display: none !important;
+}
+#filter.e2x{color: #fff;
+    background-color: #557bff;
+    border-color: #557bff;}
+#filter.filtre{    background: #557bff1f;
+    border: 1px solid #557bff1f;color: #000}
+
+.sun .cx2{    float: left;
+    margin: -3px 0px 19px 0px;}
+
+
+
+
+
+
+
+/* Customize the label (the container) */
+.cx2 {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.cx2 input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.cx2:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.cx2 input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.cx2 input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.cx2 .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.ibx{    display: block;
+    width: 100%;}
+
+    a{cursor: pointer;}
+
+		.thisselect{
+			background: none;
+border: none;
+color: #fff;padding: 8px;cursor: pointer;
+		}
+
+
+.thisselect option{
+	    background: #343a40;
+			padding: 20px;
+			display: block;
+
+}
+.language-form{margin-bottom:0;}
+.stud>div{
+  display: inline-block;width: auto;
+  margin: 22px 6px;
+    font-size: 16px;
+    border: 1px solid #557bff;
+    color: #557bff9c;
+    border-radius: 4px;
+    padding: 10px 10px;
+}
+.cawpr .acord1{
+      border-radius: 10px 10px 0px 0px;
+
+ 
+
+     cursor: pointer;
+}
+.cawpr .inf{
+      border: 1px solid #557bff;
+    padding: 8px;
+    margin-bottom: 8px;
+    transition: all ease 0.3s;
+        overflow-x: scroll;
+}
+
+.cawpr .inf.hideblock {
+    height: 0;
+    overflow: hidden;    padding: 0;
+}
+.ccooll{      width: auto;
+    display: inline-block;
+    border: 1px solid #fff;
+    padding: 4px;}
+.ccooll>div{width: auto;}
+.markp{min-height: 36px;
+      background: #557bff;
+    color: #fff;
+    padding: 3px;
+    text-align: center;
+    font-size: 20px;
+}
+.ccooll .upper{
+  border: 1px solid #557bff;
+    text-align: center;
+    color: #557bff;    padding: 4px;
+    border-radius: 8px 8px 0px 0px;
+}
+.ccooll .down{
+  border: 1px solid #557bff;
+    text-align: center;
+    color: #557bff;    padding: 4px;
+    border-radius: 0px 0px 8px 8px;
+}
+.stud>div.left{
+    background: #557bff;
+    color: #fff;
+    margin-right: -12px;
+        font-weight: bold;
+    text-shadow: 0px 0px 12px #557bff;
+}
+.filter>p{
+    width: auto;
+    display: inline-block;
+    padding: 4px;
+    margin-bottom: 0;
+    margin: 8px;
+}
+.filter>div{ 
+      width: auto;
+    display: inline-block;
+    padding: 4px;
+    margin-bottom: 0;
+    margin: 8px;
+}
+.filter>div>p{
+  margin-bottom:0
+  ;    display: inline-block;
+}
+.filter select{
+      display: inline-block;
+    margin-left: 10px;
+    padding: 4px;
+    background: #557bff;
+    color: #fff;
+    text-shadow: 0px 0px 2px #0e1925;
+    font-weight: bold;
+    border: 1px solid #557bff;
+    border-radius: 9px;
+}
+.cawpr > div:not(.jobx){
+  display: none !important
+}
+.cawpr.yr-0>div.yr-0{
+  display: block !important;
+}
+.cawpr.yr-1>div.yr-1{
+  display: block !important;
+}
+.cawpr.yr-2>div.yr-2{
+  display: block !important;
+}
+.cawpr.yr-3>div.yr-3{
+  display: block !important;
+}
+.cawpr.yr-4>div.yr-4{
+  display: block !important;
+}
+.cawpr.yr-5>div.yr-5{
+  display: block !important;
+}
+.cawpr.yr-6>div.yr-6{
+  display: block !important;
+}
+.cawpr > div> div:not(.jobx){
+  display: none !important;
+}
+.cawpr.sem-1 > div > div.sem-1{
+  display: block !important;
+}
+.cawpr.sem-2 > div > div.sem-2{
+  display: block !important;
+}
+.cawpr > div> div> div:not(.jobx){
+  display: none !important;
+}
+
+.cawpr.sub-1 > div > div > div.sub-1{
+  display: block !important;
+}
+
+.cawpr.sub-2 > div > div > div.sub-2{
+  display: block !important;
+}
+
+.cawpr.sub-3 > div > div > div.sub-3{
+  display: block !important;
+}
+
+.cawpr.sub-4 > div > div > div.sub-4{
+  display: block !important;
+}
+.cawpr.sub-5 > div > div > div.sub-5{
+  display: block !important;
+}
+.cawpr.sub-6 > div > div > div.sub-6{
+  display: block !important;
+}
+tr:hover .custom-selectx{
+  background: #557bff;
+}
+.cawpr .con, .cawr .con{
+    width: calc( 100% / 3);
+    border: 1px solid #ccc;    border-left: none;
+    display: inline-table;
+    min-height: 70px;
+    vertical-align: top;
+    padding: 8px;
+}
+.cawpr .con:first-child, .cawr .con:first-child{
+border-left: 1px solid #ccc;    
+}
+.cawr .con{
+
+    min-height: 15px;
+
+}
+.cls2, .cls3{
+  display: inline-block; width: auto;
+}
+th>select.custom-select {
+      width: calc(100% - 64px);
+    float: right;
+}
+#myTable2 tbody th{
+      vertical-align: middle;
+}
+.courses>a{display: inline-block;    border: 1px solid;
+    padding: 8px;
+    margin: 8px;
+    width: 13%;    font-weight: bold;}
+    .courses{    display: block;
+    margin: auto;
+    text-align: center;}
+    .courses>a:hover{
+          background: #1384ff;
+    color: #fff;
+    }
+    p.center{text-align: center;}
+    .grlst{display: inline-block;    padding: 4px;
+    margin: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;}
+    .clsem1{
+      display: inline-block;
+    }
+    .clsem2{
+      display: inline-block;
+    }
+    .clear{
+      clear: both;
+    }
+    .firstrow{
+    width: 50%;
+    min-height: 10px;
+    display: inline-block
+    }
+    .secrow{
+          float: right;
+          width: 50%;
+    min-height: 10px;
+    display: inline-block
+    }

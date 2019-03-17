@@ -1,0 +1,173 @@
+.sidebar{
+	padding: 0 !important;
+}
+.nav-item .nav-link {
+
+}
+.sidehr{
+	background: #dee2e6;
+	    width: 100%;
+    margin: 0;
+}
+li.nav-item>a.active-b{background: #c7cbcf;}
+.footer{    background: #c1c1c1; border-top: 1px solid #a8a8a9;text-align: center;}
+
+.footer-description{margin: auto;}
+
+select.viewas{    background: none; padding: 4px;    border: none;}
+input.viewas{    background: none; padding: 4px;       border: 1px solid #ccc;  border-radius: 4px;}
+th.nrw{cursor:pointer;    text-align: center;}
+th.nrw:hover {    background: #ccc;}
+span.ib{display: inline-block;    padding: 6px 0;}
+input.ib{display: inline-block;     float: right;}
+.custom-selectx {
+    display: inline-block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: .375rem 1.75rem .375rem .75rem;
+    line-height: 1.5;
+    color: #495057;
+    vertical-align: middle;
+    background: #fff url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' v…0 4 5'%3E%3Cpath fill='%23343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E") no-repeat right .75rem center;
+    background-size: 8px 10px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.input-group>.custom-selectx{
+    position: relative;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    width: 1%;
+    margin-bottom: 0;
+}
+.hook input{width:auto;    max-width: 22px;
+    background: #0000;
+    border: none;}
+    .hook td{text-align: center;    border-left: 1px solid #e0e0e0;}
+        .hook th{text-align: center;}
+        .markinput{text-align: center;}
+
+        .tablex td, .tablex th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+.vertext {
+
+    writing-mode: tb-rl;
+    height: 62px;
+    width: 40px;
+    display: table-cell;
+    padding: 2px 0!important;
+    border-left: 1px solid #e0e0e0;
+    color: #ccc;
+    font-weight: normal;
+}
+.nrw, .nrs{
+    display: table-cell;
+    vertical-align: middle !important;
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    cursor: pointer !important;color: #949494;
+    position: relative;z-index: 100;
+}
+.hook th{ vertical-align:middle; color: #949494;
+    font-weight: normal;}
+    td.student{text-align: left !important;}
+
+    .houmi .feather{
+        width: 42px;
+    height: 42px;
+    }
+    .houmi a{display: inline-block;border: 1px solid;
+    padding: 16px;
+    margin: 4px;}
+    .houmi svg{display: block;
+    margin: auto;}
+    .houmi a:hover{ text-decoration: none !important;    color: #fff !important;
+    background: #557bff !important;}
+    .houmi{    text-align: center;    max-width: 500px;
+    margin: auto;
+    margin-bottom: 32px;}
+    .form-element select{flex: 1;
+    background: #0000;
+    border: none;
+    padding: 8px;
+}
+.form-element{
+        border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-justify-content: center;
+    justify-content: center;
+    display: -webkit-inline-flex;
+    display: flex;
+}
+.form-element>span{
+        padding-right: 20px;
+    padding-top: 6px;min-width: 120px;
+}
+.form-element select>option, .form-element select {
+    text-align-last: right;
+}
+.houmi p{
+        margin-top: 18px;
+    margin-bottom: 0;    width: 84px;
+}
+    td.e3x{display: none !important;}
+    th.e3x{display: none;}
+
+    .news-edit{    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 12px 0;}
+
+    .fullwig .w100{width:100%;}
+    .fullwig textarea{    width: 100%;min-height: 300px;}
+
+    .block{    display: block !important;}
+    .vizible0{display: none !important;}
+    .novizible1{display: none !important;}
+    .d4x td{padding: 20px 8px !important}
+    .vivibilitytd svg{    width: 25px;
+    height: 20px;margin-right: 5px; cursor:pointer;}
+     .vivibilitytd svg.feather-eye-off{color:#fe3e3e}
+     .vivibilitytd svg.feather-eye{color: #3e9afe;}
+
+
+     .rom, .rem{cursor:pointer;    color: #ff00007a;}
+        .rom:hover, .rem:hover{color: #f00;}
+.w100{width: 100%;margin-top: 1rem;}
+
+.thisselect{
+	background: none;
+border: none;
+color: #fff;padding: 8px;cursor: pointer;
+}
+
+.thisselect option{
+	    background: #343a40;
+			padding: 20px;
+			display: block;
+
+}
+.language-form{margin-bottom:0;}
+.gruop{
+        padding: 4px;
+    border: 1px solid #ccc;
+    margin: 1px;
+}
+.gruop:hover{
+        background: #007bff24;
+    border-color: #007bff;
+    color: #fff !important;
+}
+.form-element select>option, .form-element select {
+ 
+    font-size: 18px;
+}
